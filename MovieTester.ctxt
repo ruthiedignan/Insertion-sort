@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=MovieTester
+comment0.text=\n\ This\ class\ calls\ for\ the\ Movie\ class.\n\n\ @author\ Ruthie\ Dignan\n\ @version\ 02/23/21\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=source\ dest
+comment2.target=void\ insertionYear(Movie[],\ Movie[])
+comment3.params=source\ dest
+comment3.target=void\ insertionYear2(Movie[],\ Movie[])
+comment4.params=source
+comment4.target=Movie[]\ insertionTitle(Movie[])
+comment5.params=source
+comment5.target=Movie[]\ insertionTitle2(Movie[])
+comment6.params=source
+comment6.target=Movie[]\ insertionStudio(Movie[])
+comment7.params=source
+comment7.target=Movie[]\ insertionStudio2(Movie[])
+numComments=8
